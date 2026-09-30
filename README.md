@@ -17,6 +17,7 @@ Feel free to explore, fork, or contribute by submitting pull requests with addit
 
 |MCP Server|description|categories|stars|forks|
 |-|-|-|-|-|
+|[buywhere-mcp](https://github.com/BuyWhere/buywhere-mcp)|Hosted shopping MCP for product search and price comparison across 80+ countries. Remote: https://api.buywhere.ai/mcp Docs: https://docs.buywhere.ai|Search;E-commerce & Retail|0|0|
 |[firecrawl-mcp-server](https://serp.co/mcp/servers/mendableai-firecrawl-mcp-server)|Official Firecrawl MCP Server - Adds powerful web scraping to Cursor Claude and any other LLM clients.|Browser Automation|2400|213|
 |[pocketbase-mcp](https://serp.co/mcp/servers/mrwyndham-pocketbase-mcp)|MCP server for building PocketBase apps really quickly - Need a front end quick consider FastPocket|Databases|26|4|
 |[obs-mcp](https://serp.co/mcp/servers/royshil-obs-mcp)|An MCP server for OBS|Entertainment & Media;OS Automation|5|1|
